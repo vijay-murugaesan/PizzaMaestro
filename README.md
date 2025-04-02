@@ -73,3 +73,7 @@ Pizza Maestro is a user-friendly app that showcases a wide range of delicious pi
       * Custom Product Choices:
            - Users can now order dishes beyond pizza, such as pasta, salads, desserts, and beverages.
            - Customize each item with available ingredients and preferences to create unique combinations.
+      
+      * Stories Section:
+           - Stay informed about new product launches, menu updates, and special events.
+           - Notifications for flash sales and last-minute deals.
